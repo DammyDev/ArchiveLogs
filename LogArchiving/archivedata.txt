@@ -1,0 +1,5 @@
+﻿*FolderName|Filetype|DateDiff|Destination|zipFilename|FinalDestination|FrequencyInDays|StartDate(mmddyyyy)
+C:\Users\USER01\Desktop\Sam Wella|*|2|C:\test_archive\bkp	|1|21/7/2020
+C:\BVNSSM\VALIDATE\NIP SSM\logs|*|-1|I:\Archive\BVNSSMLogs_||1|2/20/2020
+
+
